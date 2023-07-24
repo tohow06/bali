@@ -1,0 +1,3 @@
+[submodule "libs/pxSX127x"]
+	path = libs/pxSX127x
+	url = https://github.com/mayeranalytics/pySX127x.git
