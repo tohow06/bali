@@ -15,7 +15,7 @@ def publish():
     payload = {"data1": random.random(), "data2": random.random()}
     print(f"payload: {payload}")
     mqtt_client.publish(MQTT_TOPIC, json.dumps(payload), qos=1)
-    mqtt_client.loop(2, 10)
+    #mqtt_client.loop(2, 10)
 
 
 no = 1
