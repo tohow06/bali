@@ -1,3 +1,6 @@
 [submodule "libs/pxSX127x"]
 	path = libs/pxSX127x
 	url = https://github.com/mayeranalytics/pySX127x.git
+[submodule "libs/lora-sx1276"]
+	path = libs/lora-sx1276
+	url = https://github.com/piepie-tw/lora-sx1276.git
